@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Battlebot_Control_Hub", "Battlebot_Control_Hub\Battlebot_Control_Hub.csproj", "{5AF8E77F-077F-4D1B-BE68-ADD43A5784F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5AF8E77F-077F-4D1B-BE68-ADD43A5784F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AF8E77F-077F-4D1B-BE68-ADD43A5784F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AF8E77F-077F-4D1B-BE68-ADD43A5784F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AF8E77F-077F-4D1B-BE68-ADD43A5784F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73060637-0811-4660-AC9E-39EE16D64CFC}
+	EndGlobalSection
+EndGlobal
